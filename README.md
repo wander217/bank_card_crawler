@@ -1,4 +1,4 @@
-Đây là project thực hiện lấy thông tin các thẻ ngân hàng hiện có
+Đây là project thực hiện lấy thông tin các thẻ ngân hàng hiện có. Nếu thấy có ích thì cho mình xin một sao ạ. Thanks
 # **1 . Thiết lập môi trường và activate môi trường**
 ## **Window**
 ~~~
