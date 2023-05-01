@@ -1,0 +1,36 @@
+0, Vietcombank
+1, Vietinbank
+2, Agribank
+3, BIDV
+4, ACB
+5, Sacombank
+6, MBBank
+7, MSB
+8, DongA Bank
+9, EximBank
+10, Nam A Bank
+11, VPBank
+12, VIB
+13, SeABank
+14, HDBank
+15, Viet Capital Bank
+16, OCB
+17, SCB
+18, VietABank
+19, SHB
+20, ABBank
+21, NCB
+22, KienLong Bank
+23, Vietbank
+24, OceanBank
+25, PG Bank
+26, LienVietPostBank
+27, TPBank
+28, BAOVIET Bank
+29, VRB
+30, HSBC
+31, Standard Chartered
+32, Shinhan Bank
+33, Citibank
+34, PVcomBank
+35, Woori Bank

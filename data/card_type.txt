@@ -1,0 +1,5 @@
+0, Thẻ tín dụng chuẩn (Classic)
+1, Thẻ tín dụng vàng (Gold)
+2, Thẻ tín dụng bạch kim (Platinum)
+3, Thẻ tín dụng đồng thương hiệu
+4, Thẻ tín dụng khác
